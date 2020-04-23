@@ -1,0 +1,11 @@
+.UserInput {
+
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid white;
+    box-shadow: 1px solid royalblue;
+    padding: 16px;
+    text-align: center;
+    background-color: -internal-light-dark-color(white, blue);
+    color: -internal-light-dark-color(blue, white);
+}
